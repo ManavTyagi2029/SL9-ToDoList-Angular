@@ -1,0 +1,9 @@
+table {
+    border-spacing: 20px 0;
+}
+td {
+    padding: 10px 0;
+}
+.block{
+    background-color:aqua;
+}
